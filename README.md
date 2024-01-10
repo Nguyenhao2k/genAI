@@ -22,7 +22,15 @@ D-Soft: Research and Implement Image-to-Video application
 
 3. [Cascade diffusion model (CDM):](https://arxiv.org/pdf/2311.04145.pdf)
 
-## Model Architecture
+## Model Architecture (U-NET)
+
+- Forward process:
+
+1. Noise Scheduler
+2. Neural Network
+3. Timestep Encoding
+
+## Fine-Tuning Pre-trained Model
 
 ### Applications
 
